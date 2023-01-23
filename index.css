@@ -1,6 +1,10 @@
 .object-fit-contain{
     height: 27%;
+<<<<<<< HEAD
     width: 100vw;
+=======
+    width: 48%;
+>>>>>>> a61d23a (version-0.1)
 }
 *{
     background-color: rgb(255, 255, 255);
